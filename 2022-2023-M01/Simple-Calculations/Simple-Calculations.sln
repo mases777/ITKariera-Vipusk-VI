@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle_Area", "Rectangle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Area", "Triangle_Area\Triangle_Area.csproj", "{C91B1665-DF01-476F-8671-DC67224FFBBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingLab-Exam1-Problem1", "TrainingLab-Exam1-Problem1\TrainingLab-Exam1-Problem1.csproj", "{C5429AD6-125B-45C9-9C56-8E8643B085AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C91B1665-DF01-476F-8671-DC67224FFBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C91B1665-DF01-476F-8671-DC67224FFBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C91B1665-DF01-476F-8671-DC67224FFBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5429AD6-125B-45C9-9C56-8E8643B085AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5429AD6-125B-45C9-9C56-8E8643B085AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5429AD6-125B-45C9-9C56-8E8643B085AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5429AD6-125B-45C9-9C56-8E8643B085AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

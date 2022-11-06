@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\bin\Debug\TrainingLab-Exam1-Problem1.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\bin\Debug\TrainingLab-Exam1-Problem1.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\bin\Debug\TrainingLab-Exam1-Problem1.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\obj\Debug\TrainingLab-Exam1-Problem1.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\obj\Debug\TrainingLab-Exam1-Problem1.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\obj\Debug\TrainingLab-Exam1-Problem1.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\obj\Debug\TrainingLab-Exam1-Problem1.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\TrainingLab-Exam1-Problem1\obj\Debug\TrainingLab-Exam1-Problem1.pdb
