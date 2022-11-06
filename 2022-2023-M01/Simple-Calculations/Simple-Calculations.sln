@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_C_F", "Convert_C_F\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_Rad_Deg", "Convert_Rad_Deg\Convert_Rad_Deg.csproj", "{8CAD53DE-00B6-4022-8591-99D4F833FCD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_USD_BGN", "Convert_USD_BGN\Convert_USD_BGN.csproj", "{12E4D4F4-F82E-4664-ACAE-D4A136C48B7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E4D4F4-F82E-4664-ACAE-D4A136C48B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E4D4F4-F82E-4664-ACAE-D4A136C48B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E4D4F4-F82E-4664-ACAE-D4A136C48B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E4D4F4-F82E-4664-ACAE-D4A136C48B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

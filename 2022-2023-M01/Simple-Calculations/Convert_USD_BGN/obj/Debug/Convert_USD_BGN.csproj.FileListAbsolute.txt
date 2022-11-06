@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\Convert_USD_BGN.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\Convert_USD_BGN.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\bin\Debug\Convert_USD_BGN.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\Convert_USD_BGN.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\Convert_USD_BGN.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\Convert_USD_BGN.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\Convert_USD_BGN.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_USD_BGN\obj\Debug\Convert_USD_BGN.pdb
