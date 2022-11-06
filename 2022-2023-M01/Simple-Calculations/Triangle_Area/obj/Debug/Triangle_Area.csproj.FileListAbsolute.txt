@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\bin\Debug\Triangle_Area.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\bin\Debug\Triangle_Area.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\bin\Debug\Triangle_Area.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\obj\Debug\Triangle_Area.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\obj\Debug\Triangle_Area.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\obj\Debug\Triangle_Area.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\obj\Debug\Triangle_Area.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Triangle_Area\obj\Debug\Triangle_Area.pdb
