@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\bin\Debug\RectangleSquare.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\bin\Debug\RectangleSquare.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\bin\Debug\RectangleSquare.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\obj\Debug\RectangleSquare.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\obj\Debug\RectangleSquare.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\obj\Debug\RectangleSquare.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\obj\Debug\RectangleSquare.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\RectangleSquare\obj\Debug\RectangleSquare.pdb

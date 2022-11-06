@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

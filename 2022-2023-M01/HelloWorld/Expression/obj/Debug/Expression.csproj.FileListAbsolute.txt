@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\bin\Debug\Expression.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\bin\Debug\Expression.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\bin\Debug\Expression.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\obj\Debug\Expression.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\obj\Debug\Expression.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\obj\Debug\Expression.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\HelloWorld\Expression\obj\Debug\Expression.pdb
