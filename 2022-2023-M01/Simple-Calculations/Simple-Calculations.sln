@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenate-Data", "Concate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_C_F", "Convert_C_F\Convert_C_F.csproj", "{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_Rad_Deg", "Convert_Rad_Deg\Convert_Rad_Deg.csproj", "{8CAD53DE-00B6-4022-8591-99D4F833FCD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAD53DE-00B6-4022-8591-99D4F833FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

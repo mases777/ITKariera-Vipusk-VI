@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\Convert_Rad_Deg.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\Convert_Rad_Deg.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\bin\Debug\Convert_Rad_Deg.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.pdb
