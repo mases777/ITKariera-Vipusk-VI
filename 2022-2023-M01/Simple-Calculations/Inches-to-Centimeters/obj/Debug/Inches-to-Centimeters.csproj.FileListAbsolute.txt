@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.pdb

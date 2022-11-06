@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\obj\Debug\Greeting.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\obj\Debug\Greeting.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb
