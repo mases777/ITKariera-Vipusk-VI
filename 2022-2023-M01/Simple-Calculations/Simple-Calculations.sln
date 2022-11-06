@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inches-to-Centimeters", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting", "Greeting\Greeting.csproj", "{1ACD9E1A-9719-49CD-979C-8E1D1ADAAD2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concatenate-Data", "Concatenate-Data\Concatenate-Data.csproj", "{0B1F8C10-7192-480A-9879-745961F9D292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_C_F", "Convert_C_F\Convert_C_F.csproj", "{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1ACD9E1A-9719-49CD-979C-8E1D1ADAAD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ACD9E1A-9719-49CD-979C-8E1D1ADAAD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ACD9E1A-9719-49CD-979C-8E1D1ADAAD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1F8C10-7192-480A-9879-745961F9D292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1F8C10-7192-480A-9879-745961F9D292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1F8C10-7192-480A-9879-745961F9D292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1F8C10-7192-480A-9879-745961F9D292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F0D4CA-943C-4916-BDA8-343C2DAB53DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
