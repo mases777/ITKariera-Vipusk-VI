@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessPassword", "GuessPassw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SameWords", "SameWords\SameWords.csproj", "{3BB99C2A-E6DF-45AF-8808-F3521B3AEFD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add15ToTime", "Add15ToTime\Add15ToTime.csproj", "{D2BF05E3-6170-4B90-8010-2AADAD156629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeEqualNumbers", "ThreeEqualNumbers\ThreeEqualNumbers.csproj", "{F8BBE60D-099B-45F9-BA14-BE621294165B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{3BB99C2A-E6DF-45AF-8808-F3521B3AEFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB99C2A-E6DF-45AF-8808-F3521B3AEFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB99C2A-E6DF-45AF-8808-F3521B3AEFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BF05E3-6170-4B90-8010-2AADAD156629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BF05E3-6170-4B90-8010-2AADAD156629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BF05E3-6170-4B90-8010-2AADAD156629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BF05E3-6170-4B90-8010-2AADAD156629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BBE60D-099B-45F9-BA14-BE621294165B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BBE60D-099B-45F9-BA14-BE621294165B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BBE60D-099B-45F9-BA14-BE621294165B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BBE60D-099B-45F9-BA14-BE621294165B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
