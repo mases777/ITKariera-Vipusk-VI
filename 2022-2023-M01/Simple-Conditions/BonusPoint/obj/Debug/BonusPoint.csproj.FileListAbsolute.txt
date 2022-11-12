@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\bin\Debug\BonusPoint.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\bin\Debug\BonusPoint.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\bin\Debug\BonusPoint.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\obj\Debug\BonusPoint.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\obj\Debug\BonusPoint.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\obj\Debug\BonusPoint.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\obj\Debug\BonusPoint.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Simple-Conditions\BonusPoint\obj\Debug\BonusPoint.pdb
