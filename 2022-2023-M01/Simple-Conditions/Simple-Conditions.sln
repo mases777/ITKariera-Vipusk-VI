@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureArea", "FigureArea\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitVegetable", "FruitVegetable\FruitVegetable.csproj", "{584682FF-5BCF-423E-ACA3-545884312EF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidNumber", "InvalidNumber\InvalidNumber.csproj", "{0D0E5605-BF77-435F-A556-7F35C292172C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{238BC2A2-EF2F-4321-BC91-A6B00C53ED09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{584682FF-5BCF-423E-ACA3-545884312EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584682FF-5BCF-423E-ACA3-545884312EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584682FF-5BCF-423E-ACA3-545884312EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0E5605-BF77-435F-A556-7F35C292172C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0E5605-BF77-435F-A556-7F35C292172C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0E5605-BF77-435F-A556-7F35C292172C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0E5605-BF77-435F-A556-7F35C292172C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238BC2A2-EF2F-4321-BC91-A6B00C53ED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238BC2A2-EF2F-4321-BC91-A6B00C53ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238BC2A2-EF2F-4321-BC91-A6B00C53ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238BC2A2-EF2F-4321-BC91-A6B00C53ED09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
