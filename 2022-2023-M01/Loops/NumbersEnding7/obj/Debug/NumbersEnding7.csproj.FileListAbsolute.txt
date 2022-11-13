@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\bin\Debug\NumbersEnding7.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\bin\Debug\NumbersEnding7.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\bin\Debug\NumbersEnding7.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\obj\Debug\NumbersEnding7.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\obj\Debug\NumbersEnding7.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\obj\Debug\NumbersEnding7.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\obj\Debug\NumbersEnding7.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Loops\NumbersEnding7\obj\Debug\NumbersEnding7.pdb
