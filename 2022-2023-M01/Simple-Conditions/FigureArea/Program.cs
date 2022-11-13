@@ -30,7 +30,7 @@ namespace FigureArea
                     b = double.Parse(Console.ReadLine());
                     area = a * b / 2; break;                
             }
-            Console.WriteLine($"{area:f3}");
+            Console.WriteLine($"{Math.Round(area, 3)}");
 
         }
     }
