@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusPoint", "BonusPoint\Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number100_200", "Number100_200\Number100_200.csproj", "{CBC28206-2357-48C8-B809-381F8F4DA803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{C057AA25-58AD-4BA1-B3D8-33794E70BFEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{CBC28206-2357-48C8-B809-381F8F4DA803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBC28206-2357-48C8-B809-381F8F4DA803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC28206-2357-48C8-B809-381F8F4DA803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C057AA25-58AD-4BA1-B3D8-33794E70BFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C057AA25-58AD-4BA1-B3D8-33794E70BFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C057AA25-58AD-4BA1-B3D8-33794E70BFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C057AA25-58AD-4BA1-B3D8-33794E70BFEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
