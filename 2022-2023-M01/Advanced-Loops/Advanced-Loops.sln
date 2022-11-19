@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOf2kPlus1", "OrderOf2k
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLCD", "TheLCD\TheLCD.csproj", "{DCB90BCC-819C-4C48-A6C2-467C22B30234}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberInRange1_100", "NumberInRange1_100\NumberInRange1_100.csproj", "{62FABB6E-49C6-4526-BA57-D59FD0B1CD87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoriel", "Factoriel\Factoriel.csproj", "{B2257CE6-3FF4-4A35-B5EB-3DBE90E44961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DCB90BCC-819C-4C48-A6C2-467C22B30234}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB90BCC-819C-4C48-A6C2-467C22B30234}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB90BCC-819C-4C48-A6C2-467C22B30234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FABB6E-49C6-4526-BA57-D59FD0B1CD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FABB6E-49C6-4526-BA57-D59FD0B1CD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FABB6E-49C6-4526-BA57-D59FD0B1CD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FABB6E-49C6-4526-BA57-D59FD0B1CD87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2257CE6-3FF4-4A35-B5EB-3DBE90E44961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2257CE6-3FF4-4A35-B5EB-3DBE90E44961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2257CE6-3FF4-4A35-B5EB-3DBE90E44961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2257CE6-3FF4-4A35-B5EB-3DBE90E44961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\bin\Debug\NumberInRange1_100.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\bin\Debug\NumberInRange1_100.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\bin\Debug\NumberInRange1_100.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\obj\Debug\NumberInRange1_100.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\obj\Debug\NumberInRange1_100.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\obj\Debug\NumberInRange1_100.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\obj\Debug\NumberInRange1_100.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumberInRange1_100\obj\Debug\NumberInRange1_100.pdb
