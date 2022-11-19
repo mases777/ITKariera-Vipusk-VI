@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumber", "Fibonacc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumberWithCheck", "EvenNumberWithCheck\EvenNumberWithCheck.csproj", "{51B77F18-8ED8-494B-BEE0-6C3EE0BBFC52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportPrice-Exam1-Problem2", "TransportPrice-Exam1-Problem2\TransportPrice-Exam1-Problem2.csproj", "{D6CC9A86-7180-42AF-AE1F-509603A28051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegetableMarket-Exam2-Problem1", "VegetableMarket-Exam2-Problem1\VegetableMarket-Exam2-Problem1.csproj", "{2D023A58-DD24-4A12-B08C-2B0DDB277903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{51B77F18-8ED8-494B-BEE0-6C3EE0BBFC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B77F18-8ED8-494B-BEE0-6C3EE0BBFC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B77F18-8ED8-494B-BEE0-6C3EE0BBFC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CC9A86-7180-42AF-AE1F-509603A28051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CC9A86-7180-42AF-AE1F-509603A28051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CC9A86-7180-42AF-AE1F-509603A28051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CC9A86-7180-42AF-AE1F-509603A28051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D023A58-DD24-4A12-B08C-2B0DDB277903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D023A58-DD24-4A12-B08C-2B0DDB277903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D023A58-DD24-4A12-B08C-2B0DDB277903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D023A58-DD24-4A12-B08C-2B0DDB277903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
