@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\bin\Debug\PrimeNumber.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\bin\Debug\PrimeNumber.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\PrimeNumber\obj\Debug\PrimeNumber.pdb

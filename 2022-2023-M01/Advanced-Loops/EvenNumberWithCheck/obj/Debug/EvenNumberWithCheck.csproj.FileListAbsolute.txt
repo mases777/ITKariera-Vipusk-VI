@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\bin\Debug\EvenNumberWithCheck.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\bin\Debug\EvenNumberWithCheck.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\bin\Debug\EvenNumberWithCheck.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.pdb

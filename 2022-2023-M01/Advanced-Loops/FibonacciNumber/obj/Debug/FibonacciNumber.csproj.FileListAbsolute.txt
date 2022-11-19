@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\bin\Debug\FibonacciNumber.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\bin\Debug\FibonacciNumber.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\bin\Debug\FibonacciNumber.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\obj\Debug\FibonacciNumber.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\obj\Debug\FibonacciNumber.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\obj\Debug\FibonacciNumber.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\obj\Debug\FibonacciNumber.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\FibonacciNumber\obj\Debug\FibonacciNumber.pdb
