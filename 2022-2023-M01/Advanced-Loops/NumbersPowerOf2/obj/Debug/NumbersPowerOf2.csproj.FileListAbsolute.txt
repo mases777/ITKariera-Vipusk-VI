@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\bin\Debug\NumbersPowerOf2.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\bin\Debug\NumbersPowerOf2.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\bin\Debug\NumbersPowerOf2.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\obj\Debug\NumbersPowerOf2.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\obj\Debug\NumbersPowerOf2.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\obj\Debug\NumbersPowerOf2.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\obj\Debug\NumbersPowerOf2.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\NumbersPowerOf2\obj\Debug\NumbersPowerOf2.pdb
