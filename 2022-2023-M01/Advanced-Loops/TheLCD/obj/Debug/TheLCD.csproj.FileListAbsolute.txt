@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\bin\Debug\TheLCD.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\bin\Debug\TheLCD.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\bin\Debug\TheLCD.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\obj\Debug\TheLCD.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\obj\Debug\TheLCD.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\obj\Debug\TheLCD.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\obj\Debug\TheLCD.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Advanced-Loops\TheLCD\obj\Debug\TheLCD.pdb
