@@ -11,7 +11,6 @@ namespace Hospital_Exam5_Problem4
         static void Main(string[] args)
         {
             var period = int.Parse(Console.ReadLine());
-
             int doctors = 7;
             int count = 1;
             int treated = 0;
@@ -19,22 +18,17 @@ namespace Hospital_Exam5_Problem4
             for (int i = 0; i < period; i++)
             {
                 if (count % 3 == 0 && untreated > treated)
-                {
                     doctors++;
-                }
                 var patient = int.Parse(Console.ReadLine());
                 if (patient > doctors)
                 {
                     treated += doctors;
                     untreated += patient - doctors;
                 }
-                else
-                {
-                    treated += patient;
-                }
+                else                
+                    treated += patient;                
                 count++;
             }
-
             Console.WriteLine($"Treated patients: {treated}.");
             Console.WriteLine($"Untreated patients: {untreated}.");
         }
