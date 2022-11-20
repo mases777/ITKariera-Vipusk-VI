@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firm-Exam5-Problem2", "Firm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelRoom-Exam5-Problem3", "HotelRoom-Exam5-Problem3\HotelRoom-Exam5-Problem3.csproj", "{07C63E4B-E233-45FD-9CFC-D4C18DCA2010}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital-Exam5-Problem4", "Hospital-Exam5-Problem4\Hospital-Exam5-Problem4.csproj", "{C31E5CBE-F47A-4129-8A65-C4B1C65A302C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{07C63E4B-E233-45FD-9CFC-D4C18DCA2010}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C63E4B-E233-45FD-9CFC-D4C18DCA2010}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C63E4B-E233-45FD-9CFC-D4C18DCA2010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31E5CBE-F47A-4129-8A65-C4B1C65A302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31E5CBE-F47A-4129-8A65-C4B1C65A302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31E5CBE-F47A-4129-8A65-C4B1C65A302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31E5CBE-F47A-4129-8A65-C4B1C65A302C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
