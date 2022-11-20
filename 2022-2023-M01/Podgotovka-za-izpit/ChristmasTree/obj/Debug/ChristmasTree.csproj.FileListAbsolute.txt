@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\bin\Debug\ChristmasTree.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\bin\Debug\ChristmasTree.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\obj\Debug\ChristmasTree.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\obj\Debug\ChristmasTree.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\obj\Debug\ChristmasTree.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\ChristmasTree\obj\Debug\ChristmasTree.pdb
