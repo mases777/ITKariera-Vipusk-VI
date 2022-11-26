@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasTree", "ChristmasT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha01", "Zadacha01\Zadacha01.csproj", "{A08E29D9-28C6-4BEE-B010-87EB37DDE5FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha02", "Zadacha02\Zadacha02.csproj", "{DBF74727-6B93-449F-B2C0-1974948B548E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A08E29D9-28C6-4BEE-B010-87EB37DDE5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08E29D9-28C6-4BEE-B010-87EB37DDE5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08E29D9-28C6-4BEE-B010-87EB37DDE5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF74727-6B93-449F-B2C0-1974948B548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF74727-6B93-449F-B2C0-1974948B548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF74727-6B93-449F-B2C0-1974948B548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF74727-6B93-449F-B2C0-1974948B548E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
