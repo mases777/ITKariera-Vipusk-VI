@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\bin\Debug\Zadacha04.exe.config
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\bin\Debug\Zadacha04.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\bin\Debug\Zadacha04.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\obj\Debug\Zadacha04.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\obj\Debug\Zadacha04.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\obj\Debug\Zadacha04.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\obj\Debug\Zadacha04.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M01\Podgotovka-za-izpit\Zadacha04\obj\Debug\Zadacha04.pdb
