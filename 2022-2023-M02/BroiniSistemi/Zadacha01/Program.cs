@@ -6,7 +6,25 @@ namespace Zadacha01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // 1234 -> в двоично
+            
+            string result = "";
+
+            int n = int.Parse(Console.ReadLine());
+            while (n > 0)
+            {
+                result += (n % 2);
+                n /= 2;
+            }
+
+            string temp = "";
+            for (int i = result.Length - 1; i >= 0; i--)
+            {
+                temp += result[i];
+            }
+            Console.WriteLine(result);
+            Console.WriteLine(temp);
+
         }
     }
 }
