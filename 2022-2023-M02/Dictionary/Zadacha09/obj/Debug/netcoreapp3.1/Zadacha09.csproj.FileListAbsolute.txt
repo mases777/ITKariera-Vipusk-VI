@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\bin\Debug\netcoreapp3.1\Zadacha09.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\bin\Debug\netcoreapp3.1\Zadacha09.deps.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\bin\Debug\netcoreapp3.1\Zadacha09.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\bin\Debug\netcoreapp3.1\Zadacha09.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\bin\Debug\netcoreapp3.1\Zadacha09.dll
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\bin\Debug\netcoreapp3.1\Zadacha09.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.dll
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M02\Dictionary\Zadacha09\obj\Debug\netcoreapp3.1\Zadacha09.genruntimeconfig.cache
