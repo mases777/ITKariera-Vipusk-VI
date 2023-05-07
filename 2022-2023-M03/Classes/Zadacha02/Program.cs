@@ -6,7 +6,13 @@ namespace Zadacha02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BankAccount account = new BankAccount();
+
+            account.Id = int.Parse(Console.ReadLine());
+            account.Deposit(double.Parse(Console.ReadLine()));
+            Console.WriteLine(account.ToString());
+            account.Withdraw(50);
+            Console.WriteLine(account.ToString());
         }
     }
 }
