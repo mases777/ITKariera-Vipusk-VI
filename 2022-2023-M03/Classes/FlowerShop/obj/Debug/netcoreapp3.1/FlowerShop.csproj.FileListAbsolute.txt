@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.deps.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.dll
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.dll
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M03\Classes\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.genruntimeconfig.cache
