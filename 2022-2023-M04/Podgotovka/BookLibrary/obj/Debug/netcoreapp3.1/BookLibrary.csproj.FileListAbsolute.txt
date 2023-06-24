@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.exe
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.deps.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.dll
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\bin\Debug\netcoreapp3.1\BookLibrary.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.dll
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.pdb
+F:\repos\ITKariera-Vipusk-VI\2022-2023-M04\Podgotovka\BookLibrary\obj\Debug\netcoreapp3.1\BookLibrary.genruntimeconfig.cache
