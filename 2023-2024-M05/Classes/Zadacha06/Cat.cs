@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Zadacha06
 {
-    public class Puppy : Dog
+    public class Cat : Animal
     {
-        public void Weap()
+        public void Meow()
         {
-            Console.WriteLine("Weaping...");
+            Console.WriteLine("Meowing...");
         }
     }
 }
