@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha10", "Zadacha10\Zada
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha11", "Zadacha11\Zadacha11.csproj", "{A02F2FBC-E75D-4E30-A971-8546BBC2F669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha12", "Zadacha12\Zadacha12.csproj", "{396415BE-03AC-454E-A6B6-B93C37076275}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha12", "Zadacha12\Zadacha12.csproj", "{396415BE-03AC-454E-A6B6-B93C37076275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha13", "Zadacha13\Zadacha13.csproj", "{8489DA3C-C4ED-4057-B237-C6254BE353D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha13", "Zadacha13\Zadacha13.csproj", "{8489DA3C-C4ED-4057-B237-C6254BE353D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha14", "Zadacha14\Zadacha14.csproj", "{49D4C807-C7EF-438B-B53C-684B64860A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadacha14", "Zadacha14\Zadacha14.csproj", "{49D4C807-C7EF-438B-B53C-684B64860A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha15", "Zadacha15\Zadacha15.csproj", "{0B1134DD-3EA9-49A6-B5ED-CCB8CA171806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{49D4C807-C7EF-438B-B53C-684B64860A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49D4C807-C7EF-438B-B53C-684B64860A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49D4C807-C7EF-438B-B53C-684B64860A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1134DD-3EA9-49A6-B5ED-CCB8CA171806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1134DD-3EA9-49A6-B5ED-CCB8CA171806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1134DD-3EA9-49A6-B5ED-CCB8CA171806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1134DD-3EA9-49A6-B5ED-CCB8CA171806}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
