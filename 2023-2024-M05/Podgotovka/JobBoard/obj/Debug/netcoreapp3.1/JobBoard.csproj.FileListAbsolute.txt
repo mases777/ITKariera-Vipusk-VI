@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.exe
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.deps.json
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.dll
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\bin\Debug\netcoreapp3.1\JobBoard.pdb
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.dll
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.pdb
+F:\repos\ITKariera-Vipusk-VI\2023-2024-M05\Podgotovka\JobBoard\obj\Debug\netcoreapp3.1\JobBoard.genruntimeconfig.cache
