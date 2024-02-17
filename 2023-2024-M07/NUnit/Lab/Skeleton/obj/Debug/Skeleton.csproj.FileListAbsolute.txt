@@ -1,0 +1,13 @@
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\bin\Debug\Skeleton.exe.config
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\bin\Debug\Skeleton.exe
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\bin\Debug\Skeleton.pdb
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.csprojResolveAssemblyReference.cache
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.exe
+D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.pdb
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\bin\Debug\Skeleton.exe.config
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\bin\Debug\Skeleton.exe
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\bin\Debug\Skeleton.pdb
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\obj\Debug\Skeleton.csproj.AssemblyReference.cache
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\obj\Debug\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\obj\Debug\Skeleton.exe
+C:\Users\user_GN\Desktop\М07 РС - 2024 - Материали\2.Увод-в-концепцията-за-тестване-Писане-на-unit-тестове-20200127\Lab\Skeleton\obj\Debug\Skeleton.pdb
