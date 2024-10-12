@@ -1,0 +1,15 @@
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\bin\Debug\net8.0\Zadacha09.exe
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\bin\Debug\net8.0\Zadacha09.deps.json
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\bin\Debug\net8.0\Zadacha09.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\bin\Debug\net8.0\Zadacha09.dll
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\bin\Debug\net8.0\Zadacha09.pdb
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.sourcelink.json
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.dll
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\refint\Zadacha09.dll
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.pdb
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\Zadacha09.genruntimeconfig.cache
+F:\repos\ITKariera-Vipusk-VI\2024-2025-M10\Greedy\Zadacha09\obj\Debug\net8.0\ref\Zadacha09.dll
